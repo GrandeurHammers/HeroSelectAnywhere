@@ -1,0 +1,19 @@
+{
+  "Modes": {
+    "Skirmish": {
+      "Enabled Maps": [
+        "Workshop Chamber"
+      ],
+      "Hero Limit": "Off",
+      "Respawn Time Scalar": 30.0
+    }
+  },
+  "Heroes": {
+    "General": {
+      "General": {
+        "Ability Cooldown Time": 10
+      }
+    }
+  },
+  "Description": "Hero Select Anywhere by Josbird | Questions or concerns? Contact me via Discord at Josbird#1908 or Twitter at @Josbird_"
+}
